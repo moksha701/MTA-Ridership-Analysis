@@ -30,7 +30,7 @@ The project provides insights into:
 📌 **Data Source**
 
 Raw ridership data sourced from NY Open Data:
-[MTA Daily Ridership Data (2020–present)](https://data.ny.gov/Transportation/MTA-Daily-Ridership-Data-Beginning-2020/vxuj-8kew)
+[MTA Daily Ridership Data (2020–2025)](https://data.ny.gov/Transportation/MTA-Daily-Ridership-Data-Beginning-2020/vxuj-8kew)
 
 Additional references:
 * [MTA Subway & Bus Ridership Report](https://www.mta.info/agency/new-york-city-transit/subway-bus-ridership-2024)
